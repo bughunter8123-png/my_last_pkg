@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arsalan-fresh-pkg-8899"
+version = "0.1.0"
+description = "A fresh Python package for testing OIDC publishing"
+authors = [
+    { name = "bughunter8123-png" }
+]
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
